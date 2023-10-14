@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=KoHo:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "KoHo", sans-serif;
+  text-decoration: none;
+  outline: none;
+  border: none;
+  font-size: 1.5rem;
+}
+main {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 10%;
+}
+body {
+  background-color: #141d2f;
+  color: #adbac7;
+}
+h1,
+input {
+  text-align: center;
+  margin: 20px auto;
+}
+input {
+  background-color: rgba(190, 190, 190, 0.144);
+  color: white;
+  border-radius: 10px;
+}
+a {
+  color: rgb(159, 219, 219);
+}
+.content-main {
+  margin: 30px;
+  width: 50%;
+  margin: auto;
+}
+.content-main .project {
+  border: 1px solid #adbac7b5;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  gap: 30px;
+  border-radius: 30px;
+  margin: 20px;
+}
+.content-main .project div {
+  display: flex;
+  justify-content: space-between;
+}
+.content-main .project div .date-create {
+  color: #adbac7;
+  border: 1px solid rgb(140, 140, 140);
+  border-radius: 20px;
+  padding: 5px 10px;
+  font-size: 0.9rem;
+}
+.content-main .project div .title {
+  color: #86abd4;
+}
+.content-main .project .language .circle {
+  background-color: #076eff;
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  margin-right: 5px;
+  border: 1px solid #22272e;
+  border-radius: 50%;
+}
