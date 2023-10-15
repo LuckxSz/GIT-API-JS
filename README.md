@@ -1,6 +1,5 @@
 <strong><div align="center">
-if you wanna see your repo, just change the "nickname" in  "api.github.com/users/nickname/repos on js file
-
+<video src="https://github.com/LuckxSz/GIT-API-JS/assets/135531180/fe742e50-628d-4cbc-ad4f-06914a5c5b68">
 
 > **If the video has an error, reload the page!**<br>
 > Access the online project here  **[AQUI](https://luckxsz.github.io/GIT-API-JS/)**
