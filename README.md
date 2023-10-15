@@ -20,7 +20,7 @@
 </div>
 
 > **If the video has an error, reload the page!**<br>
-> Access the online project here **[AQUI](https://luckxsz.github.io/Geometric-Generator-16/)**
+> Access the online project here **[AQUI](https://luckxsz.github.io/GIT-API-JS/)**
 
 ## 🤓Technologies Used
 
